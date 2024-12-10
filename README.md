@@ -17,5 +17,5 @@
 ### Installation and Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/Data-Image-Encryption-Decryption-Java.git
+   git clone https://github.com/Arvindsai-lu/Data-Image-Encryption-Decryption-Java.git
    cd Data-Image-Encryption-Decryption-Java
